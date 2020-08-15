@@ -3,7 +3,7 @@
 	    {
 	    "is-alive-store":"true",
 	    "ad-priority": "2",
-	     "time-bettwen-in":"55",
+	     "time-bettwen-in":"45",
       	 "package-name-replace":"xxx.yyy.zzz"
         }
     ]
