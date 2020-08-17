@@ -6,7 +6,7 @@
 	     "time-bettwen-in":"35",
       	 "package-name-replace":"xxx.yyy.zzz",
 	 "time-bettwen-ad-click":"300",
-	 "is-show-main-app":"false"
+	 "is-show-main-app":"true"
         }
     ]
 }
