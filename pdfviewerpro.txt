@@ -2,7 +2,7 @@
     "my-data":[
 	    {
 	    "is-alive-store":"true",
-	    "ad-priority": "2",
+	    "ad-priority": "1",
 	     "time-bettwen-in":"35",
       	 "package-name-replace":"xxx.yyy.zzz",
 	 "time-bettwen-ad-click":"300",
