@@ -7,7 +7,7 @@
       	 "package-name-replace":"xxx.yyy.zzz",
 	 "time-bettwen-ad-click":"300",
 	 "is-show-main-app":"true",
-	 "is-show-main-app":"false"
+	 "is-show-applovi":"false"
         }
     ]
 }
